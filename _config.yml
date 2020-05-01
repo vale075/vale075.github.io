@@ -1,10 +1,10 @@
 remote_theme: sujaykundu777/devlopr-jekyll
-title: devlopr
-subtitle: A Jekyll Theme Built for Developers
+title: vale075
+subtitle: vale075's Website
 description: >- # this means to ignore newlines until "baseurl:"
   devlopr-jekyll is a Jekyll Theme Built For Developers
 
-url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
+url: "vale075.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 
 urls:
