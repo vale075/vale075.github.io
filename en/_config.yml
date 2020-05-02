@@ -5,7 +5,7 @@ subtitle: Un developpeur wannabe
 description: >- # this means to ignore newlines until "baseurl:"
   Le site d'un developpeur wannabe
 url: "vale075.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/en" # the subpath of your site, e.g. /blog
 
 urls:
     - text: About Me
@@ -38,7 +38,7 @@ author_education_details:
 # Can add more "educations" if necessary
 
 author_project_details:
-              - project_thumbnail: slimy_quest.png
+              - project_thumbnail: slimyquest.png
                 project_title: Slimy Quest
                 project_description: Jeu vidéo dont le hero est... un slime
                 project_url: https://github.com/AdriBird/Slimy_Quest
