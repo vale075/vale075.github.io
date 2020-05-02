@@ -1,6 +1,6 @@
 ---
-title: My Bio
+title: About me
 menus: header
 layout: about-me
-permalink: /get-started/
+permalink: /about/
 ---
