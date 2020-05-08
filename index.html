@@ -1,3 +1,25 @@
----
-layout: home
----
+<!doctype html>
+<html>
+<head>
+	<p id="demo"></p>
+	<script>
+	var language = navigator.language
+		switch(language){
+			case 'en-US':
+				window.location.href = 'en';
+				break;
+			case 'fr-FR':
+				window.location.href = 'fr';
+				break;
+			default:
+				// if it's something else fall back to the default
+				window.location.href = 'en';
+				break;
+		}
+	</script>
+	<noscript>
+	<meta http-equiv="refresh" content="0; url=en" />
+	<p><a href="en">Redirect</a></p>
+	</noscript>
+</head>
+</html>
